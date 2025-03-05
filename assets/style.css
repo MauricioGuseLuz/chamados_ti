@@ -1,0 +1,19 @@
+/* Estilo personalizado para o alerta de sucesso */
+.alert-success {
+    background-color: #28a745; /* Verde do Bootstrap */
+    color: white; /* Cor do texto */
+    border-color: #218838; /* Cor da borda */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-bottom: 15px; /* Margem inferior */
+}
+
+/* Estilo personalizado para o alerta de erro */
+.alert-danger {
+    background-color: #dc3545; /* Vermelho do Bootstrap */
+    color: white; /* Cor do texto */
+    border-color: #c82333; /* Cor da borda */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-bottom: 15px; /* Margem inferior */
+}
