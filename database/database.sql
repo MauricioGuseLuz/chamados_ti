@@ -13,7 +13,7 @@ CREATE TABLE usuarios (
     senha VARCHAR(255) NOT NULL,
     cidade VARCHAR(100) NOT NULL,
     estado VARCHAR(50) NOT NULL,
-    codigo_validacao VARCHAR(10),
+    token_validacao VARCHAR(10),
     validado BOOLEAN DEFAULT 0
 );
 
